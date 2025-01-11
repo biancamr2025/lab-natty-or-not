@@ -1,51 +1,42 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+E-book: Introdução ao Pedal para Iniciantes
+Página 1: Bem-vindo ao Mundo do Pedal!
+Ilustração:
+Uma imagem vibrante de um grupo de ciclistas iniciantes em um parque ensolarado, todos sorrindo e se divertindo.
 
-## 🚀 Introdução
+Texto:
+Bem-vindo ao emocionante mundo do pedal! Este e-book foi criado especialmente para você, que está dando os primeiros passos na prática do ciclismo. Aqui, você encontrará dicas essenciais, técnicas básicas e um guia passo a passo para começar sua jornada sobre duas rodas.
 
-> Woooow! Look at this 👀
+Página 2: Equipamentos Essenciais
+Ilustração:
+Uma imagem de um ciclista com todos os equipamentos de segurança: capacete, luvas, e roupas apropriadas.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Texto:
+Antes de pedalar, é importante ter os equipamentos certos. Aqui estão os itens essenciais que você deve considerar:
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
+Capacete: Sempre use um capacete para proteger sua cabeça.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Luvas: Elas ajudam a melhorar o grip e protegem suas mãos.
 
-### Template
+Roupas Confortáveis: Use roupas que permitam liberdade de movimento.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Bicicleta Adequada: Escolha uma bicicleta que se ajuste ao seu tamanho e estilo de pedalada.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Página 3: Dicas para Começar
+Ilustração:
+Uma imagem de um ciclista em posição correta na bicicleta, com setas indicando a postura.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Texto:
+Aqui estão algumas dicas para você começar a pedalar de forma segura e eficiente:
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ajuste a Altura do Selim: Certifique-se de que o selim está na altura certa para que suas pernas possam esticar completamente.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Postura Correta: Mantenha as costas retas e os ombros relaxados. 
 
-### Exemplos e Insigths
+Pedale em Linhas Retas: Pratique em áreas planas e evite curvas fechadas até se sentir confortável.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Respeite as Sinalizações: Sempre preste atenção às regras de trânsito e sinalizações.
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Conclusão do E-book
+Estamos empolgados por você ter dado o primeiro passo no ciclismo! Com essas dicas e informações, você está pronto para começar a pedalar com confiança. Lembre-se de se divertir e aproveitar cada momento na estrada!
