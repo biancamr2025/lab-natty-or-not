@@ -1,51 +1,38 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? 
 
-## 🚀 Introdução
+## Booora sair do sofá?
 
-> Woooow! Look at this 👀
+> Booooooora! Movimentando 
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Introdução:
+A importância da atividade física: Apresente os benefícios da atividade física para a saúde física e mental, usando dados e exemplos inspiradores.
+Os desafios de uma vida sedentária: Explore as consequências de passar muito tempo sentado, como o aumento do risco de doenças crônicas.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Entendendo seu Corpo e Sua Mente:
+Avaliação física: Faça um check-up médico antes de iniciar qualquer programa de exercícios.
+Objetivos realistas: Defina metas claras e alcançáveis, considerando suas condições físicas e limitações.
+Motivação: Encontre um motivo pessoal para se manter ativo e como superar obstáculos mentais.
 
-### Objetivos
+Criando uma Rotina de Exercícios:
+Encontrando a atividade ideal: Explore diversas opções de exercícios, como caminhadas, corrida, yoga, musculação, dança, etc.
+Planejamento: Crie um plano de treino personalizado, considerando a frequência, intensidade e duração dos exercícios.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Alimentação e Hidratação:
+A importância de uma dieta equilibrada: Uma boa alimentação fornece a energia necessária para a prática de exercícios.
+Hidratação: É importante se manter hidratado durante e após as atividades físicas.
+Nutrientes essenciais: Busque nutrientes que ajudam no desempenho físico e na recuperação muscular.
 
-### Template
+Superando Obstáculos e Mantendo a Motivação:
+Lidando com a falta de tempo: Encaixe a atividade física na rotina diária.
+Encontrando um parceiro de treino: Busque um companheiro de treino para se manter motivado.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Celebrando as conquistas: Comemore suas pequenas vitórias para manter o ânimo.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Dicas Extras:
+Exercícios em casa: Busqye exercícios que possam ser feitos em casa, sem a necessidade de equipamentos.
+Aplicativos e dispositivos: Busque aplicativos e dispositivos que possam auxiliar na prática de exercícios e no acompanhamento do progresso.
+Recursos online: Indique blogs, canais do YouTube e grupos nas redes sociais sobre saúde e bem-estar.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Exercícios específicos: Utilize um guia com exercícios para diferentes grupos musculares ou para objetivos específicos (perda de peso, ganho de massa muscular, etc.).
+Receitas saudáveis: Faça receitas nutritivas e fáceis de preparar para complementar a rotina de exercícios.
+Histórias de sucesso: Veja histórias inspiradoras de pessoas que transformaram suas vidas através da atividade física.
